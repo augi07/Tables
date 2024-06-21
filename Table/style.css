@@ -1,0 +1,15 @@
+Table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+}
+
+table, th {
+    border: 1px solid black;
+}
